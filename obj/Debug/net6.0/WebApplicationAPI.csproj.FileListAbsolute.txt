@@ -99,3 +99,4 @@ D:\DEMO\WebApplicationAPI\bin\Debug\net6.0\EntityFrameworkCore.QueryBuilder.dll
 D:\DEMO\WebApplicationAPI\bin\Debug\net6.0\EntityFrameworkCore.QueryBuilder.Abstractions.dll
 D:\DEMO\WebApplicationAPI\bin\Debug\net6.0\LinqKit.Core.dll
 D:\DEMO\WebApplicationAPI\bin\Debug\net6.0\LinqKit.Microsoft.EntityFrameworkCore.dll
+D:\DEMO\WebApplicationAPI\obj\Debug\net6.0\WebApplicationAPI.sourcelink.json
